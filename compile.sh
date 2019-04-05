@@ -1,0 +1,1 @@
+g++ -o aiassignment AIassignment1.cpp

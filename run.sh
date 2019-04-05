@@ -1,0 +1,1 @@
+./aiassignment $1 $2
